@@ -1,0 +1,8 @@
+{
+  "name": "kanban",
+  "title": "Kanban",
+  "size": "1100x720",
+  "id": "io.github.coderkearns.kanban",
+  "version": "0.1.0",
+  "minTinyjsVersion": "0.48.0"
+}
